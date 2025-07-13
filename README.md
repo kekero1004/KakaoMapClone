@@ -2,9 +2,7 @@
 
 Python PyQt6과 카카오맵 API를 이용한 데스크톱 지도 애플리케이션
 
-![Uploading image.png…]()
-
-
+<img width="1695" height="995" alt="image" src="https://github.com/user-attachments/assets/305aa04c-c6e6-4d32-9526-bcc4b1b60df4" />
 
 ## ✨ 주요 기능
 
